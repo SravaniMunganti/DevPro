@@ -8,5 +8,11 @@ public class P1class {
 		System.out.println("Hi Jo ;)");
 
 	}
+public class P2class
+{
+	P2class(){
+		System.out.println("Yo....!, My Sunshine Girl");
+	}
+}
 
 }
