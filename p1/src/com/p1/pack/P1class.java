@@ -14,5 +14,10 @@ public class P2class
 		System.out.println("Yo....!, My Sunshine Girl");
 	}
 }
-
+public class P3class
+{
+	P3class(){
+		System.out.println("Yo....!");
+	}
+}
 }
